@@ -1,0 +1,4 @@
+3
+ADD 3
+FIND 5
+SSS 3
